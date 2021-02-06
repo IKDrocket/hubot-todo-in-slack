@@ -1,0 +1,8 @@
+{
+  "name": "Hubot-todo-in-slack",
+  "description": "Chat bot in slack.",
+  "repository": "https://github.com/IKDrocket/hubot-todo-in-slack/",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
