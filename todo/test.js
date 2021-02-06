@@ -3,7 +3,7 @@ const assert = require('assert');
 
 // テストの前に永続化されているファイルを消す
 const fs = require('fs');
-fs.unlink('./tasks.json', err => {
+fs.unlink('./todo/tasks.json', err => {
     const todo = require('./index.js');
 
     // add と のテスト
